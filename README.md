@@ -12,4 +12,4 @@ In this work we propose a Risk Assessment exercise applied to an automotive scen
 
 - Email: marioraciti@pm.me
 - LinkedIn: linkedin.com/in/marioraciti
-- Twitter: twitter.com/zMrSec
+- Twitter: twitter.com/tsumarios
